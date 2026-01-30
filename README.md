@@ -108,11 +108,11 @@ Example:
 
 ## 🧠 Best Practices
 
-✔ Always start with `#!/bin/bash` to specify the interpreter
-✔ Use descriptive variable names
-✔ Add comments for readability
-✔ Use `chmod +x` to make scripts executable
-✔ Test scripts with different inputs
+- Always start with `#!/bin/bash` to specify the interpreter
+- Use descriptive variable names
+- Add comments for readability
+- Use `chmod +x` to make scripts executable
+- Test scripts with different inputs
 
 ---
 
